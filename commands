@@ -1,0 +1,3 @@
+notes:
+  in windows command for running celery worker === celery -A hayat worker --pool=solo -l  INFO
+  in windows command for running celery beat === celery -A hayat beat -l INFO
